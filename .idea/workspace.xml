@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="333264d9-a0a4-4021-8572-91db0ce0e34d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cPyff3izOQDulVWM1IrSfF5Qbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopApplication">
+    <configuration name="cartridgeInventory [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cartridgeInventory [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cartridgeInventory [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cartridge.inventory.shop.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.cartridgeInventory [init]" />
+        <item itemvalue="Gradle.cartridgeInventory [bootRun]" />
+        <item itemvalue="Gradle.cartridgeInventory [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="333264d9-a0a4-4021-8572-91db0ce0e34d" name="Default Changelist" comment="" />
+      <created>1590444627565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590444627565</updated>
+      <workItem from="1590444634444" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1868" height="506" key="GridCell.Tab.0.bottom" timestamp="1590445092769">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092769" />
+    <state width="1868" height="506" key="GridCell.Tab.0.center" timestamp="1590445092769">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092769" />
+    <state width="1868" height="506" key="GridCell.Tab.0.left" timestamp="1590445092768">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092768" />
+    <state width="1868" height="506" key="GridCell.Tab.0.right" timestamp="1590445092769">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092769" />
+    <state width="1868" height="506" key="GridCell.Tab.1.bottom" timestamp="1590445092771">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092771" />
+    <state width="1868" height="506" key="GridCell.Tab.1.center" timestamp="1590445092770">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092770" />
+    <state width="1868" height="506" key="GridCell.Tab.1.left" timestamp="1590445092770">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092770" />
+    <state width="1868" height="506" key="GridCell.Tab.1.right" timestamp="1590445092770">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1868" height="506" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1590445092770" />
+  </component>
+</project>
